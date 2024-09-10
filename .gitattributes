@@ -1,0 +1,2 @@
+R/asteroids_initial.zip filter=lfs diff=lfs merge=lfs -text
+Python/main.exe filter=lfs diff=lfs merge=lfs -text
